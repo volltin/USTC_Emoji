@@ -9,3 +9,9 @@ You can add more emoji in `EMOJI_DIR`
 Makesure you have PIL installed.
 
 `python ustc_emoji.py`
+
+## Example
+
+![joy](output/703.jpg)
+
+![red](output/752.jpg)
