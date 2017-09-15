@@ -25,7 +25,7 @@ def draw_emoji(logo, emoji):
     y += Y_OFFSET
     eX, eY = R, R
     center = (x/2 - eX/2, y/2 - eY/2, x/2 + eX/2, y/2 + eY/2)
-    center = [int(x) for x in center]
+    center = [int(i) for i in center]
 
     # Clear center
     draw = ImageDraw.Draw(logo)
